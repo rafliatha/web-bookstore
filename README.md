@@ -1,6 +1,3 @@
-Nama : Muhammad Rafli Falam Athallah
-NIM  : 5312422019
-
 **README - Website BookKing | Toko Buku Online Terpercaya**
 
 Tema yang Dipilih :
